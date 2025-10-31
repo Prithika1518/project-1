@@ -34,11 +34,19 @@ Gender Distribution: Sales are slightly higher for Male customers compared to Fe
 This project is likely built using a business intelligence tool (e.g., Power BI, Tableau). To view, modify, or interact with the dashboard, you will typically need:
 The BI Tool: Power BI Desktop
 The Source File: excel file
+version :develpode with Power BI desktop:2.148.878.0 (october 2025)
+Performance Trace Logs:
+C:\Users\prith\Microsoft\Power BI Desktop Store App\PerformanceTraces.zip
+Query:custom calculation and new measure were created using the DAX language
+Filename: The main project file is sales dashboard.phib
 
 contact
 
 if you have any questions or feedback please contact:
+
 email id:prithika842@gmail.com
- clone:https://github.com/Prithika1518/project-1.git
+
+clone:https://github.com/Prithika1518/project-1.git
+
 github profile:Prithika1518
 
